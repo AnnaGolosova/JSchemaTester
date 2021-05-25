@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/JSchemaTester/v15
+*.json
+/JSchemaTester/bin/Debug/netcoreapp2.1
+/JSchemaTester/obj
